@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Period Configuration</name>
+   <tag></tag>
+   <elementGuidId>7096637e-8780-4df1-bdb6-5ec52bc4db4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/period-configuration/div/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b8e8fdf-b340-4852-8af2-e3d74ee0ea5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header</value>
+      <webElementGuid>ca574f40-1079-4b18-8b58-72c97b3821e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Period Configuration </value>
+      <webElementGuid>ee14d62a-0c38-4ba2-86c3-d758bf75b269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/period-configuration[1]/div[@class=&quot;adminperiodconfiguration&quot;]/header[1]/div[@class=&quot;section-header&quot;]</value>
+      <webElementGuid>94c2111f-9d59-42d9-b061-f9ff413bb361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/period-configuration/div/header/div</value>
+      <webElementGuid>150e8f3a-7501-497f-96e6-c0d47db4d925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::div[3]</value>
+      <webElementGuid>10a8fa49-64f7-4d03-a7b8-5914d11843a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[2]/following::div[3]</value>
+      <webElementGuid>4bd69da8-a877-4196-bb67-7f3ac33079a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit 2023'])[1]/preceding::div[6]</value>
+      <webElementGuid>85eca19a-2a97-44c9-99db-90e632d29abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+      <webElementGuid>7d226d31-bf77-42f2-89b6-b40342e4cbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Period Configuration ' or . = ' Period Configuration ')]</value>
+      <webElementGuid>e26792ca-e59b-49f8-9341-ff7693bb3651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>81132397-1f2a-4403-8436-1daa78e35f47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fullscreen-root-container']/div/div/div[2]/osr-login/div/osr-login-osr/form/div[2]/osr-submit-button/button/ng-transclude/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7e2c863-351a-487a-8119-28165e049ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>vm.getSubmitButtonText()</value>
+      <webElementGuid>247847ae-b675-430b-8cbd-3df8e49bb314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>3a45dcd7-bacf-408a-91b4-a0604a748743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>aa74110f-de21-4448-82c0-3da5176f100d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__single_spa_angular_1&quot;)/ui-view[@class=&quot;ultimate ng-scope&quot;]/div[@id=&quot;fullscreen-root-container&quot;]/div[@class=&quot;login osrFlexItem&quot;]/div[@class=&quot;osrFlex&quot;]/div[@class=&quot;widget widget_container-login-form osrFlexItem osrFlexItem__grow ng-scope&quot;]/osr-login[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/osr-login-osr[@class=&quot;ng-scope ng-isolate-scope&quot;]/form[@class=&quot;ng-valid ng-scope ng-valid-email ng-valid-required ng-valid-minlength ng-valid-policy ng-dirty ng-valid-parse&quot;]/div[2]/osr-submit-button[@class=&quot;ng-scope ng-isolate-scope&quot;]/button[@class=&quot;osr-button osr-button--primary&quot;]/ng-transclude[1]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>82aaf6ce-49ed-4323-9655-046eefead272</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fullscreen-root-container']/div/div/div[2]/osr-login/div/osr-login-osr/form/div[2]/osr-submit-button/button/ng-transclude/span</value>
+      <webElementGuid>8677f73f-a698-497e-ade0-289cda6098e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::span[1]</value>
+      <webElementGuid>8c1bcb04-7074-459b-9f0b-c537e3312423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>89b49cc0-24eb-4de7-812d-ff5f9da89118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::span[1]</value>
+      <webElementGuid>79f8c721-2f48-4087-ba87-37e9874a0453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Microsoft'])[1]/preceding::span[2]</value>
+      <webElementGuid>4c8518ec-020d-417f-bb94-e31bf905ab50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>bc9c4ece-f156-4466-8e35-8d7b02eab935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-transclude/span</value>
+      <webElementGuid>bad0da44-072c-4ec3-b834-111c044d43ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>5a8c51c4-a50f-45c9-a416-ab35e65d4113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data</name>
+   <tag></tag>
+   <elementGuidId>c34b7590-fc91-44d9-9f6e-3cd216781ff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div/div/div/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4780f10b-9328-4eb9-b703-042bf42854e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Data </value>
+      <webElementGuid>ba815dc9-f9cd-4727-9c49-7f605de0fde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/left-section[@class=&quot;sidebar&quot;]/ul[@class=&quot;nav nav-list&quot;]/accordion[@class=&quot;panel-group&quot;]/accordion-group[@class=&quot;panel&quot;]/div[@class=&quot;panel card panel-default&quot;]/div[@class=&quot;panel-heading card-header panel-enabled&quot;]/div[@class=&quot;panel-title&quot;]/div[@class=&quot;accordion-toggle&quot;]/li[@class=&quot;accordion-heading&quot;]/a[1]</value>
+      <webElementGuid>b6e4506a-8edf-499c-89a5-aa493c5e66f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div/div/div/li/a</value>
+      <webElementGuid>f252ab3f-66b7-427a-937c-7aa2ecf7c699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Data')])[3]</value>
+      <webElementGuid>ffe302c6-9409-400f-9343-ac51661a2381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Explorer'])[1]/following::a[1]</value>
+      <webElementGuid>4ff0e368-92aa-4efc-a5f7-f795b85ee48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Configuration'])[2]/following::a[2]</value>
+      <webElementGuid>fab23dd9-9685-4c95-b179-78117595f5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[1]/preceding::a[1]</value>
+      <webElementGuid>9126c472-d0fc-441b-aba0-672757e0b417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules'])[1]/preceding::a[2]</value>
+      <webElementGuid>fa885c82-e7fc-4c8a-a505-d1af138509e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data']/parent::*</value>
+      <webElementGuid>a3989529-01f3-4532-b43a-a2f8eae223e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//accordion-group[4]/div/div/div/div/li/a</value>
+      <webElementGuid>c7bc9f11-5304-4710-a3bb-1ac2a101efb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Data ' or . = ' Data ')]</value>
+      <webElementGuid>49be1550-0c42-4744-8dd9-a0ef8dfc8ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Mindy_Corporate_Demo</name>
+   <tag></tag>
+   <elementGuidId>1cbb85da-2f50-4599-9dff-41d5bf1772e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tenant-dropdown']/div[3]/div/div[10]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>be006de3-68b8-4767-944f-184d14f91300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osr-user-menu__item-title</value>
+      <webElementGuid>a4bf1bf2-6992-4d87-9e5c-0ced09689664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mindy_Corporate_Demo</value>
+      <webElementGuid>ea1605f4-283a-42a5-9cb7-9dc856764286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tenant-dropdown&quot;)/div[@class=&quot;osr-user-menu__item&quot;]/div[@class=&quot;osr-user-menu__sub-menu&quot;]/div[@class=&quot;osr-user-menu__item&quot;]/p[@class=&quot;osr-user-menu__item-title&quot;]</value>
+      <webElementGuid>b8f693f1-beff-445b-8c81-4716ca035057</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tenant-dropdown']/div[3]/div/div[10]/p</value>
+      <webElementGuid>7c07fab4-3bc2-4ef2-9c2d-64b282fa24b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy_Corporate_Demo'])[1]/following::p[13]</value>
+      <webElementGuid>3661bff3-eaf1-45b8-9fc2-e9a01dc02d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy Kim'])[1]/following::p[13]</value>
+      <webElementGuid>89fa7979-f269-4fbe-ab7c-30afd633c71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::p[14]</value>
+      <webElementGuid>f7f4ea86-52cb-4814-a7b9-84a9e1f5be44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::p[14]</value>
+      <webElementGuid>d3f99b8b-a4b0-4d2f-b381-04f3b427651d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/p</value>
+      <webElementGuid>3c4e7b0a-ec10-4a2d-8c18-2ddda224f050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Mindy_Corporate_Demo' or . = ' Mindy_Corporate_Demo')]</value>
+      <webElementGuid>190b8497-08de-4653-a960-6b44c5d38677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

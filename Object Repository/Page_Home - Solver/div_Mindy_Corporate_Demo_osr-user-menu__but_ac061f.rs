@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mindy_Corporate_Demo_osr-user-menu__but_ac061f</name>
+   <tag></tag>
+   <elementGuidId>dc44da60-4551-4d47-8019-3a05fcba10be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tenantSwitcher-button']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.osr-user-menu__button-title__icon-container--dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad392fcb-2f8f-4c83-9f9a-22226d579e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osr-user-menu__button-title__icon-container--dropdown</value>
+      <webElementGuid>faed8079-94f4-4980-9782-f80aef7fb9fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tenantSwitcher-button&quot;)/div[@class=&quot;osrTopbarButton__buttonContainer osrTopbarButton__buttonContainer--nopadding&quot;]/div[@class=&quot;osr-user-menu__button-title&quot;]/div[@class=&quot;osr-user-menu__button-title__icon-container--dropdown&quot;]</value>
+      <webElementGuid>b43bc1a6-6ed8-42e1-a23a-0eec857d8dda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tenantSwitcher-button']/div/div/div[3]</value>
+      <webElementGuid>e8dfed80-c9e7-4360-8f7c-bc9cab5f8d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy_Corporate_Demo'])[1]/following::div[1]</value>
+      <webElementGuid>a944d4d2-97b2-457d-ac29-02fd16f0fd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy Kim'])[1]/following::div[1]</value>
+      <webElementGuid>4dc91897-0e4a-454a-915d-6be739512df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::div[3]</value>
+      <webElementGuid>8ab73637-3b23-4022-83aa-32f11e064f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::div[3]</value>
+      <webElementGuid>9e67d9ee-4f15-41b6-ab96-5be21221c51c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[3]</value>
+      <webElementGuid>2526bf34-7e5b-405d-9df4-69cb9c4be3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Explorer</name>
+   <tag></tag>
+   <elementGuidId>930a28ac-7b23-4ebe-b5b9-e27f520b9aa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[3]/div/div/div/div/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>42cbe134-0786-4dad-a2d3-a50d017ed680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/warehouse-manager/data-explorer</value>
+      <webElementGuid>e10940fa-99a5-4148-852d-2b949c403065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Data Explorer </value>
+      <webElementGuid>2d599593-77ed-4997-9400-275226de5691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/left-section[@class=&quot;sidebar&quot;]/ul[@class=&quot;nav nav-list&quot;]/accordion[@class=&quot;panel-group&quot;]/accordion-group[@class=&quot;panel&quot;]/div[@class=&quot;panel card panel-default&quot;]/div[@class=&quot;panel-heading card-header panel-enabled&quot;]/div[@class=&quot;panel-title&quot;]/div[@class=&quot;accordion-toggle&quot;]/li[@class=&quot;accordion-heading&quot;]/a[1]</value>
+      <webElementGuid>3fe82d50-16d6-4d83-8a68-950bb4a23c61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[3]/div/div/div/div/li/a</value>
+      <webElementGuid>75e60b3b-d799-416a-b4ab-c0ab6fe21803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Data Explorer')]</value>
+      <webElementGuid>4379544d-079d-4230-b6d2-a68e359b2c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Configuration'])[2]/following::a[1]</value>
+      <webElementGuid>f73e8383-5eb3-46d3-a918-ebbf4335901a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Rates'])[1]/following::a[2]</value>
+      <webElementGuid>1f79bfb7-dc7c-4028-a139-c784be702ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/preceding::a[1]</value>
+      <webElementGuid>c311502e-33ee-425f-97ef-c4667f5601ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[1]/preceding::a[2]</value>
+      <webElementGuid>e0e5b086-816f-46f5-8190-d5a7b7bb0a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Explorer']/parent::*</value>
+      <webElementGuid>d0fe983b-5866-4a8f-969d-a77493f6d99c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/warehouse-manager/data-explorer')]</value>
+      <webElementGuid>9045b87e-24ef-407d-92c4-040ebd1bbfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//accordion-group[3]/div/div/div/div/li/a</value>
+      <webElementGuid>d065bd3b-8660-44d8-8a27-52fd672b95f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/warehouse-manager/data-explorer' and (text() = ' Data Explorer ' or . = ' Data Explorer ')]</value>
+      <webElementGuid>cc4cc7b8-d6be-4532-a3a4-f8d9ea64413a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

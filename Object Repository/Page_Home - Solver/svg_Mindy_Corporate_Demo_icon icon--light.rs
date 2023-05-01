@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Mindy_Corporate_Demo_icon icon--light</name>
+   <tag></tag>
+   <elementGuidId>8de3df19-3268-481a-b387-7abe4d187ecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy_Corporate_Demo'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.icon.icon--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6dbbe28c-9f50-4119-a511-724c7b82d8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>40e53c09-19ea-429f-9a7f-8234d1d36b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon--light</value>
+      <webElementGuid>6def2d6c-4ee9-467f-b59f-5d7d64a64b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>e7a29c67-12db-4929-a133-3f95a33e3ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>54px</value>
+      <webElementGuid>a47f7d25-e936-46bb-a83e-f5c99a8b41f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>54px</value>
+      <webElementGuid>ed5e45f6-fc4c-4708-92ab-841770e1a9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>a814be6b-486d-449c-b763-a6c13502fa2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>8af16e53-82e6-47f8-ac41-2781a74195ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/button[@class=&quot;navbar__openClose&quot;]/span[@class=&quot;icon__container&quot;]/svg[@class=&quot;icon icon--light&quot;]</value>
+      <webElementGuid>aa383305-2e9e-4722-9090-0674974374a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy_Corporate_Demo'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>df5a9df4-3c65-4e90-be8b-5b1f0abae902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mindy Kim'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>c944c024-ab18-4be9-bd0f-83e058a5ecaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c4fa8fb8-7e8b-4632-9c73-ffce93a46672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>0b59cf51-27de-420b-aac8-40655d6a9c08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

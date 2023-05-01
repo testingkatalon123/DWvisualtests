@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Integrations</name>
+   <tag></tag>
+   <elementGuidId>353d09fb-f1b7-4dc1-a161-5bc6245a67f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/integrations/div/header/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.section-header--title.automation-sectionHeaderTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>9844d729-cded-4c4d-aa4f-b37bc32d4007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header--title automation-sectionHeaderTitle</value>
+      <webElementGuid>80b0f6b0-7bf0-43d6-b17a-689367739927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Integrations </value>
+      <webElementGuid>f5a413ec-54fb-4715-abfc-15515b0e9537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/integrations[1]/div[@class=&quot;connections&quot;]/header[1]/div[@class=&quot;section-header&quot;]/h3[@class=&quot;section-header--title automation-sectionHeaderTitle&quot;]</value>
+      <webElementGuid>fb37741c-81d4-4522-b64e-fc7e3a4c3b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/integrations/div/header/div/h3</value>
+      <webElementGuid>ebdd7cef-36a0-4c82-9407-bd81d037571d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::h3[2]</value>
+      <webElementGuid>bfb33651-42f2-4c9d-9ea7-207f2e0a5794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::h3[2]</value>
+      <webElementGuid>22987679-905a-4e85-aa75-dfd863790b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD NEW'])[1]/preceding::h3[1]</value>
+      <webElementGuid>3777b88d-60f6-4846-99a3-088cc5beca8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPORT'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1f4d28d0-e16a-432b-9d17-5d603821415d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h3</value>
+      <webElementGuid>cba0eecc-7a77-49b1-8502-2f601351022e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Integrations ' or . = ' Integrations ')]</value>
+      <webElementGuid>4f5b47d9-bddc-4920-97a6-9f8dcdb40e0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

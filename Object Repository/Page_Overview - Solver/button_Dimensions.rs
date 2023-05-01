@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dimensions</name>
+   <tag></tag>
+   <elementGuidId>bb004043-03d5-4d5b-94c2-acadc84bf1b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section/solver-header-tab-bar/section/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf36caca-bbd6-44d7-9ee7-6a8aeeb1d0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dimensions </value>
+      <webElementGuid>c9425e51-7271-48cf-9e7e-5668ca2f4328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/overview[1]/section[@class=&quot;section&quot;]/solver-header-tab-bar[1]/section[@class=&quot;header&quot;]/div[@class=&quot;header-tab&quot;]/button[2]</value>
+      <webElementGuid>9bfc0763-058d-4424-9a01-9bf82b117076</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section/solver-header-tab-bar/section/div/button[2]</value>
+      <webElementGuid>fd09076e-8e1f-43fd-aef2-9fc17dc2e8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[2]/following::button[1]</value>
+      <webElementGuid>70d0dd5f-2e42-45f5-9668-3fe4c1353414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions by Module'])[1]/following::button[2]</value>
+      <webElementGuid>e6b89662-4e65-4c16-b364-f8703166cf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Payable'])[1]/preceding::button[1]</value>
+      <webElementGuid>4ceb646a-de1a-4de8-b7e4-b0a6c7afc45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>ffe7fcc5-5cdf-4ba5-9cf0-07948b753ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4b9b8b99-6d09-4ec3-a819-24dc735888c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Dimensions ' or . = 'Dimensions ')]</value>
+      <webElementGuid>4f242466-04a4-4117-8d99-bed190c8a231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

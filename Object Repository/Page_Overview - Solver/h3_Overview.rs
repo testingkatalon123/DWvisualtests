@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Overview</name>
+   <tag></tag>
+   <elementGuidId>ab341b92-14a6-4938-94df-62fc0b10826d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section/header/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.section-header--title.automation-sectionHeaderTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>804b1e4d-d544-4926-b80e-c961ebd50890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header--title automation-sectionHeaderTitle</value>
+      <webElementGuid>7cd3d69a-510e-4f1e-a0a4-2e6bd42c2ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview </value>
+      <webElementGuid>a848affa-c611-4b95-9a52-b127af7585e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/overview[1]/section[@class=&quot;section&quot;]/header[1]/div[@class=&quot;section-header&quot;]/h3[@class=&quot;section-header--title automation-sectionHeaderTitle&quot;]</value>
+      <webElementGuid>2be7d97d-73c7-4bda-a1be-eb37e18e7b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section/header/div/h3</value>
+      <webElementGuid>393b364f-4068-4324-9e20-3d1d3f571590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::h3[2]</value>
+      <webElementGuid>6b6025bf-6cd7-48e8-8248-17d717023efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::h3[2]</value>
+      <webElementGuid>af033122-8633-4360-9594-0169ba68dc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions by Module'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5be1e5fe-2ab4-4d6f-becd-3cdc9e4d2d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[2]/preceding::h3[1]</value>
+      <webElementGuid>ef1af43b-a0c8-4b76-8549-8f96276a64da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h3</value>
+      <webElementGuid>cb16f4eb-7f9b-4ed8-a5a7-705edaef92df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Overview ' or . = ' Overview ')]</value>
+      <webElementGuid>222d8d1d-4210-47bd-a3f6-6abe56a0ce44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

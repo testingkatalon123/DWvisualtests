@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account</name>
+   <tag></tag>
+   <elementGuidId>e070ad04-f648-46ab-8f7d-fd6712b3a959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section/div/div/div/overview-detail/div/h4/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-block.text-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f4f2e3a-19b8-4e65-bb6b-1e533f55314c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block text-truncate</value>
+      <webElementGuid>c90480fd-82ad-4aee-a70e-86ee247c1234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>d327d773-5289-4bca-9503-6c2cd7a4bef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/overview[1]/section[@class=&quot;section&quot;]/div[@class=&quot;section--content&quot;]/div[@class=&quot;card-deck&quot;]/div[@class=&quot;card fadeIn animated&quot;]/overview-detail[1]/div[@class=&quot;card-header&quot;]/h4[@class=&quot;card-header--title&quot;]/a[1]/span[@class=&quot;d-block text-truncate&quot;]</value>
+      <webElementGuid>bcd96393-0eb4-473a-a915-34312a49f9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section/div/div/div/overview-detail/div/h4/a/span</value>
+      <webElementGuid>b2a308c4-2c9c-4b6f-8075-0aeeb0ab2814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions'])[2]/following::span[1]</value>
+      <webElementGuid>23964749-846e-45b3-a8a4-1cc816da0462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[2]/following::span[2]</value>
+      <webElementGuid>c598e862-7e1b-4d9e-a355-48a8c86fcd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Payable'])[1]/preceding::span[1]</value>
+      <webElementGuid>1001476d-5d26-4d10-a0c5-8f9f1c12822d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Receivable'])[1]/preceding::span[1]</value>
+      <webElementGuid>61d19669-571e-43a4-a021-9b03f9ce695b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account']/parent::*</value>
+      <webElementGuid>6958c5f6-de06-47ec-917b-9fd840ce1b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a/span</value>
+      <webElementGuid>73a9a682-38b7-48a0-9f79-161e11f41175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Account' or . = 'Account')]</value>
+      <webElementGuid>817d6074-ca6c-4960-98b1-3f0629e2b227</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

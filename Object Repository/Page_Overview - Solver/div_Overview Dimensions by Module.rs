@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview Dimensions by Module</name>
+   <tag></tag>
+   <elementGuidId>72986efe-c78c-459e-956e-f5290728fdd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3da07665-fe54-48dd-bce3-d1d79c6ef12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header</value>
+      <webElementGuid>06de5cdd-2110-4cb4-89c6-e3de5a38d105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview Dimensions by Module</value>
+      <webElementGuid>1f85d6dc-b4a9-4478-a560-6bafcae63f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/overview[1]/section[@class=&quot;section&quot;]/header[1]/div[@class=&quot;section-header&quot;]</value>
+      <webElementGuid>e1d483a5-01b8-4fa0-a14d-842f40663b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section/header/div</value>
+      <webElementGuid>c37c369c-e463-4b9c-baec-ef9a628a1d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::div[2]</value>
+      <webElementGuid>a0a631a2-62b9-4246-8e81-4409fd8d8876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::div[2]</value>
+      <webElementGuid>28c31c57-ab67-4e15-9b5b-b9b2b1a68b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+      <webElementGuid>0cf0fd4f-2c20-47c9-acf6-9cbdce9b7770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Overview Dimensions by Module' or . = ' Overview Dimensions by Module')]</value>
+      <webElementGuid>21880b06-898c-4184-8fc9-03d3b8fee4bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

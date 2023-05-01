@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account Type</name>
+   <tag></tag>
+   <elementGuidId>2d9a9308-170e-4b61-a3dc-5b6ba68fb5de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div/section/div/wj-flex-grid/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wj-cell.wj-header.wj-filter-off</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5e67cb1-f358-4d2c-ad9d-af6f2967dcbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wj-cell wj-header wj-filter-off</value>
+      <webElementGuid>62c24c37-860f-488b-9cd4-6ce2d7f39fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>e9e5d3bc-6c0c-4719-8961-046e016ab793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f87b3f30-6524-4107-99df-8e849e6bb467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Type</value>
+      <webElementGuid>fe901718-b1d0-4df5-89d7-8215ac46cc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/rate-configuration[1]/div[@class=&quot;rateConfiguration&quot;]/section[@class=&quot;rateConfiguration-content&quot;]/div[1]/wj-flex-grid[@class=&quot;wj-control wj-content wj-flexgrid wj-state-focus wj-state-focused&quot;]/div[1]/div[5]/div[@class=&quot;wj-colheaders&quot;]/div[@class=&quot;wj-row&quot;]/div[@class=&quot;wj-cell wj-header wj-filter-off&quot;]</value>
+      <webElementGuid>cc670eff-aa44-40a1-9034-154d84ba394e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div/section/div/wj-flex-grid/div/div[5]/div/div/div</value>
+      <webElementGuid>259890c6-4dcd-409d-8a30-9d607272765d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statistics - No Conversion'])[1]/following::div[11]</value>
+      <webElementGuid>b610e92e-807e-4075-9a23-46b4ce210164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STAT'])[1]/following::div[12]</value>
+      <webElementGuid>29930f9c-d266-43f0-b685-662f672d5dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/preceding::div[1]</value>
+      <webElementGuid>4d41fe34-a9c6-4b9e-8b2c-39c5ec8b5564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BSC Detail'])[1]/preceding::div[13]</value>
+      <webElementGuid>af06a8de-1c40-45cd-a188-d353fa03b881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>2558e233-fd98-43e5-b0a3-38fd074ab319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account Type' or . = 'Account Type')]</value>
+      <webElementGuid>0a5aa906-4589-4b5c-9f9e-0059fe396cbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Warehouse</name>
+   <tag></tag>
+   <elementGuidId>e16d19be-0484-4b53-87a8-76d60e975f56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='anchor_ae706bbe-f978-4405-a434-c5ac8f374df9']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#anchor_ae706bbe-f978-4405-a434-c5ac8f374df9 > div.navbar__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af9f4fd3-1091-4b78-b24d-cfdf7e762d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar__title</value>
+      <webElementGuid>274e70ca-28b7-4ea0-8cdc-890a206a360e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Warehouse</value>
+      <webElementGuid>75d7ed13-4af4-4991-ba2b-3777560c8be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anchor_ae706bbe-f978-4405-a434-c5ac8f374df9&quot;)/div[@class=&quot;navbar__title&quot;]</value>
+      <webElementGuid>413da51c-e63a-4e05-a692-707d789fd312</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='anchor_ae706bbe-f978-4405-a434-c5ac8f374df9']/div</value>
+      <webElementGuid>6b2032aa-6218-4661-bc46-f5bb1c5cd6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Warehouse'])[1]/following::div[1]</value>
+      <webElementGuid>a50c0119-6424-4500-9c03-823e115037f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[2]/following::div[1]</value>
+      <webElementGuid>7778b9c8-40e9-49b9-8c59-9b0bebead1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[1]</value>
+      <webElementGuid>3a64f789-546d-400e-8575-6517e658ec07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/preceding::div[1]</value>
+      <webElementGuid>8005775e-aefa-460d-84cc-cfdc028c9f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/ul/li[2]/a/div</value>
+      <webElementGuid>d1314a67-a393-4489-83ad-07126fb269ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data Warehouse' or . = 'Data Warehouse')]</value>
+      <webElementGuid>2154b9bd-b46f-4a63-aa71-f2bcc3f88a20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Integrations</name>
+   <tag></tag>
+   <elementGuidId>de8be6c1-811e-4e96-b4c3-316b7d97081c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div[2]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-collapse.collapse.in.show > div.panel-body.card-block.card-body > ul.nav > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f63ded2-aea2-48f7-8307-e6e66b132423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/warehouse-manager/integrations</value>
+      <webElementGuid>9f089181-096d-42d3-b112-9b09c67537c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Integrations </value>
+      <webElementGuid>31a8f62b-6080-404c-9024-dce900d4a5b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/left-section[@class=&quot;sidebar&quot;]/ul[@class=&quot;nav nav-list&quot;]/accordion[@class=&quot;panel-group&quot;]/accordion-group[@class=&quot;panel panel-open&quot;]/div[@class=&quot;panel card panel-default&quot;]/div[@class=&quot;panel-collapse collapse in show&quot;]/div[@class=&quot;panel-body card-block card-body&quot;]/ul[@class=&quot;nav&quot;]/li[1]/a[1]</value>
+      <webElementGuid>2934e85b-5f0e-4eec-881d-0c52c17e71b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>cb25272b-42b1-423f-9ed7-dab5d39e1789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Integrations')]</value>
+      <webElementGuid>ad39859a-fd89-4b8e-b67a-4c02d162ad69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/following::a[1]</value>
+      <webElementGuid>70ffdf98-06b5-4ca9-a3ba-27cbc9b15d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Explorer'])[1]/following::a[2]</value>
+      <webElementGuid>03c37108-8e2c-4edc-9c85-ae5385a0daad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules'])[1]/preceding::a[1]</value>
+      <webElementGuid>2b36fdb0-93cd-4d24-935a-b362b9de6670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/preceding::a[2]</value>
+      <webElementGuid>5886256e-5a2e-4fbb-92f4-77d09123441e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Integrations']/parent::*</value>
+      <webElementGuid>d93065a0-3009-4bac-8027-4d183aea3e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/warehouse-manager/integrations')]</value>
+      <webElementGuid>5725f49c-cdd2-4d39-8446-21efe64fadd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//accordion-group[4]/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>fdbc7c63-93a9-42f3-af8d-d6206a973115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/warehouse-manager/integrations' and (text() = ' Integrations ' or . = ' Integrations ')]</value>
+      <webElementGuid>e483d0d8-9b6a-4532-b75b-4c8cb0edbad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

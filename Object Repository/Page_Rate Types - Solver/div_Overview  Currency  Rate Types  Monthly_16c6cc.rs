@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview  Currency  Rate Types  Monthly_16c6cc</name>
+   <tag></tag>
+   <elementGuidId>e8b99b71-2fd5-4c17-9ed8-aaf4f5dce6d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#solver-data-warehouse-app</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2655cf6b-1e37-4a0a-b0a8-06317a7f0896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>solver-data-warehouse-app</value>
+      <webElementGuid>1f8cdcd8-91d9-46e1-bffd-070b35dc87d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrapper solver-data-warehouse-app-container</value>
+      <webElementGuid>69efedbf-fe4a-44a3-afc1-eeaf3b085c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview  Currency  Rate Types  Monthly Rates  Rate Configuration  Data Explorer  Data  Integrations  Rules  Jobs  Event Log  Configuration  Modules  Dimensions  Module Schema  Period Configuration  API  Data Warehouse Manager
+ Rate Type Rate TypeDescriptionMultiple EntitiesAVGAverageCLSClosingSTATStatistical No ConversionBUDBudgetREOBARetained Earnings OBACSACTCommon Stock ActivityCSOBACommon Stock OBAICOBAInterco Balance Sheet OBAICACTInterco Balance Sheet ActivityRate TypeDescriptionMultiple Entities0Delete Rate Type Are you sure you want to permanently delete this Rate Type? Cancel  Delete Error  Close </value>
+      <webElementGuid>0da8af1f-8f31-4507-82cd-e4ff692292ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)</value>
+      <webElementGuid>836f088f-53bf-4ac3-a8a7-66a4a032f5d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']</value>
+      <webElementGuid>5881556e-b2f4-41ce-a564-5f92b6b6f761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:solverwarehouseapp@1.0.0']/app-root/div</value>
+      <webElementGuid>de492a19-2b92-44c3-b1d1-d7b937e27402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[5]</value>
+      <webElementGuid>6ef22ad6-83ef-453c-8523-f0bab379757b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[6]</value>
+      <webElementGuid>3b1de42b-dd2b-4d41-a0bd-b674038d6001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root/div</value>
+      <webElementGuid>643a07e1-272c-41b0-828d-3bc76297764e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'solver-data-warehouse-app' and (text() = ' Overview  Currency  Rate Types  Monthly Rates  Rate Configuration  Data Explorer  Data  Integrations  Rules  Jobs  Event Log  Configuration  Modules  Dimensions  Module Schema  Period Configuration  API  Data Warehouse Manager
+ Rate Type Rate TypeDescriptionMultiple EntitiesAVGAverageCLSClosingSTATStatistical No ConversionBUDBudgetREOBARetained Earnings OBACSACTCommon Stock ActivityCSOBACommon Stock OBAICOBAInterco Balance Sheet OBAICACTInterco Balance Sheet ActivityRate TypeDescriptionMultiple Entities0Delete Rate Type Are you sure you want to permanently delete this Rate Type? Cancel  Delete Error  Close ' or . = ' Overview  Currency  Rate Types  Monthly Rates  Rate Configuration  Data Explorer  Data  Integrations  Rules  Jobs  Event Log  Configuration  Modules  Dimensions  Module Schema  Period Configuration  API  Data Warehouse Manager
+ Rate Type Rate TypeDescriptionMultiple EntitiesAVGAverageCLSClosingSTATStatistical No ConversionBUDBudgetREOBARetained Earnings OBACSACTCommon Stock ActivityCSOBACommon Stock OBAICOBAInterco Balance Sheet OBAICACTInterco Balance Sheet ActivityRate TypeDescriptionMultiple Entities0Delete Rate Type Are you sure you want to permanently delete this Rate Type? Cancel  Delete Error  Close ')]</value>
+      <webElementGuid>a5745107-c349-4cc5-ab74-953bda6b09ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

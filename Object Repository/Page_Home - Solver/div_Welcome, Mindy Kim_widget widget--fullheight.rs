@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome, Mindy Kim_widget widget--fullheight</name>
+   <tag></tag>
+   <elementGuidId>998b75fb-db14-44ba-af98-f09a8b3ab57a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:content@1.0.0']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.widget.widget--fullheight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18fea24d-5bc4-454d-a13d-dc56a0c3c27f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget widget--fullheight</value>
+      <webElementGuid>bfb79c0e-7413-46b9-9164-1b650fc72755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:content@1.0.0&quot;)/div[@class=&quot;ultimate&quot;]/div[@class=&quot;container container--gray landingpage-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;widget widget--fullheight&quot;]</value>
+      <webElementGuid>f1c0a5ed-c4dc-4463-a11f-a8e186c3a6e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:content@1.0.0']/div/div/div/div</value>
+      <webElementGuid>6be69780-ff49-458b-88c0-56cbc7dfc6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Mindy Kim'])[1]/following::div[2]</value>
+      <webElementGuid>9ef977bc-d4c9-4fce-a413-28f62bdd3f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[7]</value>
+      <webElementGuid>9ed21d52-dd6b-494b-a181-8a1f1b6e4332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search results'])[1]/preceding::div[8]</value>
+      <webElementGuid>4895197c-0802-45a2-a8b3-e941cffabdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>708e06b6-5d3c-4cab-8cce-d1cd7811c0f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

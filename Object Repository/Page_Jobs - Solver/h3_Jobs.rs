@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Jobs</name>
+   <tag></tag>
+   <elementGuidId>86c1ac7f-84d8-4c23-95d7-477107566ffa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/jobs/div/header/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.section-header--title.automation-sectionHeaderTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>dda14866-8b2e-4ad0-a377-4c582f295f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header--title automation-sectionHeaderTitle</value>
+      <webElementGuid>fa77d82c-3602-47e6-8f3a-d0aec1cb72c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jobs </value>
+      <webElementGuid>a9bff506-06f6-4917-8657-4e8b73c01dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/jobs[1]/div[@class=&quot;jobs&quot;]/header[1]/div[@class=&quot;section-header&quot;]/h3[@class=&quot;section-header--title automation-sectionHeaderTitle&quot;]</value>
+      <webElementGuid>757af23f-38ce-4e24-b14a-98e7fcf9a54b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/jobs/div/header/div/h3</value>
+      <webElementGuid>bf3e5fbd-52ed-4597-969b-3a5e97c63f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::h3[2]</value>
+      <webElementGuid>9487ae5b-9c57-456b-bf26-96119ca79bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::h3[2]</value>
+      <webElementGuid>a8da8532-46ce-462f-bbef-b1f168d80a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Jobs and schedule events to run'])[1]/preceding::h3[1]</value>
+      <webElementGuid>bc48a907-98bd-4fc3-81b5-be4404b6c4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW JOB'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c157623f-f190-4334-9edd-d1acd3a89ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h3</value>
+      <webElementGuid>4c48ec02-6976-421f-b6b6-8b5ad9fa24d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Jobs ' or . = ' Jobs ')]</value>
+      <webElementGuid>32bd1cc5-cfc6-4ccd-960b-e5a756435926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

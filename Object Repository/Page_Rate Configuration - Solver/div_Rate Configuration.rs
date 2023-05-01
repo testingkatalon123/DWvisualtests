@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rate Configuration</name>
+   <tag></tag>
+   <elementGuidId>a29228f6-4a87-48db-ac70-f5f795df8951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1512511-ffd1-41a5-b836-67d6aab56d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-header</value>
+      <webElementGuid>5a1936dd-efbf-408e-8bf2-ff480f1e8773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rate Configuration </value>
+      <webElementGuid>d01ff85d-b0ca-4855-bf16-145b0111d4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/rate-configuration[1]/div[@class=&quot;rateConfiguration&quot;]/header[1]/div[@class=&quot;section-header&quot;]</value>
+      <webElementGuid>a4aa2d8f-a58d-4ace-a609-0f948a753f7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div/header/div</value>
+      <webElementGuid>88bc2742-e982-4223-9021-28ceab5d44fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::div[3]</value>
+      <webElementGuid>02f980f1-8f4b-45bd-83e1-f98f2f473a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::div[3]</value>
+      <webElementGuid>3bb04a0d-5175-492d-9863-adb1b82b5414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Type'])[1]/preceding::div[5]</value>
+      <webElementGuid>85003a92-d2a5-4eba-a03d-9124e91b177a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+      <webElementGuid>e01eddc1-c83a-45e0-a703-e6b39a7f3172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Rate Configuration ' or . = ' Rate Configuration ')]</value>
+      <webElementGuid>76062a95-cf34-4073-b055-81efb4f267cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

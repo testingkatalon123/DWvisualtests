@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rate Configuration Account TypeDescript_9024a2</name>
+   <tag></tag>
+   <elementGuidId>ccb1baba-6ab1-4196-9f4e-aa9ffdd6164e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rateConfiguration</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f46768e3-92df-430b-971a-0e4a5c904b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rateConfiguration</value>
+      <webElementGuid>35d7f15b-c5b0-4756-9e6e-8072241e04d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rate Configuration Account TypeDescriptionBSCBalance Sheet ConversionCSCCommon Stock ConversionICCInterco Balance Sheet ConversionPLCIncome Stmt ConversionRECRetained Earnings ConversionSTATStatistics - No ConversionAccount TypeDescription0BSC DetailScenarioRate TypeACTCLSBUDBUDFCSTBUDOBACLSOBBBUDScenarioRate Type0</value>
+      <webElementGuid>aebca173-4e11-4692-9f59-ed1b138edf21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/rate-configuration[1]/div[@class=&quot;rateConfiguration&quot;]</value>
+      <webElementGuid>5d0f7901-970f-4f27-a446-e4413b4fc544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/rate-configuration/div</value>
+      <webElementGuid>2fa7fece-7fda-4aee-8a86-5e642d6a3a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::div[2]</value>
+      <webElementGuid>121176f3-2e4e-458a-9956-8368d90c8def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::div[2]</value>
+      <webElementGuid>d14223b0-c9e0-4e6a-8619-d6a4297d32af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//rate-configuration/div</value>
+      <webElementGuid>80aefffa-0ffe-44ee-a7ac-4339819d6a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Rate Configuration Account TypeDescriptionBSCBalance Sheet ConversionCSCCommon Stock ConversionICCInterco Balance Sheet ConversionPLCIncome Stmt ConversionRECRetained Earnings ConversionSTATStatistics - No ConversionAccount TypeDescription0BSC DetailScenarioRate TypeACTCLSBUDBUDFCSTBUDOBACLSOBBBUDScenarioRate Type0' or . = ' Rate Configuration Account TypeDescriptionBSCBalance Sheet ConversionCSCCommon Stock ConversionICCInterco Balance Sheet ConversionPLCIncome Stmt ConversionRECRetained Earnings ConversionSTATStatistics - No ConversionAccount TypeDescription0BSC DetailScenarioRate TypeACTCLSBUDBUDFCSTBUDOBACLSOBBBUDScenarioRate Type0')]</value>
+      <webElementGuid>92e3ce80-6673-41c1-af45-0bac03db6f4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

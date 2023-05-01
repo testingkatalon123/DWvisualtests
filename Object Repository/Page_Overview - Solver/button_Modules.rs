@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Modules</name>
+   <tag></tag>
+   <elementGuidId>41fc96e4-8fe5-4849-8c61-2136a9b47f77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section/solver-header-tab-bar/section/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-tab > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d27ad3bc-69c0-406d-8e62-c287d3e3e969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modules </value>
+      <webElementGuid>3c43759e-3320-4f47-ba2a-70dcb667cb71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper page-content-wrapper--wide&quot;]/overview[1]/section[@class=&quot;section&quot;]/solver-header-tab-bar[1]/section[@class=&quot;header&quot;]/div[@class=&quot;header-tab&quot;]/button[1]</value>
+      <webElementGuid>7f3050cb-71b0-4516-9cef-0e70209bcf20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section/solver-header-tab-bar/section/div/button</value>
+      <webElementGuid>9145062f-7271-4a8a-b514-9147f1175edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules by Dimension'])[1]/following::button[1]</value>
+      <webElementGuid>07831e40-e434-404f-9938-889cb516098f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[3]/following::button[1]</value>
+      <webElementGuid>789e76e0-9278-4eef-aa90-c0c519508d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimensions'])[2]/preceding::button[1]</value>
+      <webElementGuid>17b81d38-9a69-435b-986d-b4f3af0ce9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::button[2]</value>
+      <webElementGuid>9e77b285-9257-42ca-859c-dba85e65e433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button</value>
+      <webElementGuid>01794239-8c39-4e5f-817d-877087d99713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Modules ' or . = 'Modules ')]</value>
+      <webElementGuid>bab62299-2f2a-41ba-84be-25e7fb16b8dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

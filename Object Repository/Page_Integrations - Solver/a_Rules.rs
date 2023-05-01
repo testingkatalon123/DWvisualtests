@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rules</name>
+   <tag></tag>
+   <elementGuidId>fa5dbec7-1efc-4aba-9b46-07bfa65ba2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div[2]/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-collapse.collapse.in.show > div.panel-body.card-block.card-body > ul.nav > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45dc27d0-a558-4e39-90e8-a2c30e425828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/warehouse-manager/rules</value>
+      <webElementGuid>2d57e9a4-a576-441b-b7cc-d2218e197acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rules </value>
+      <webElementGuid>e1d8e982-655a-450d-b3d4-589b47280afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/left-section[@class=&quot;sidebar&quot;]/ul[@class=&quot;nav nav-list&quot;]/accordion[@class=&quot;panel-group&quot;]/accordion-group[@class=&quot;panel panel-open&quot;]/div[@class=&quot;panel card panel-default&quot;]/div[@class=&quot;panel-collapse collapse in show&quot;]/div[@class=&quot;panel-body card-block card-body&quot;]/ul[@class=&quot;nav&quot;]/li[2]/a[1]</value>
+      <webElementGuid>87acd5c6-491c-4793-b635-0aaa15bf050d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/left-section/ul/accordion/accordion-group[4]/div/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>e0611a09-165c-4789-bfd3-30c0c03e3e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Rules')]</value>
+      <webElementGuid>aabc8cc8-348c-47df-8cd0-f0460c051568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations'])[2]/following::a[1]</value>
+      <webElementGuid>96dd0a44-c5f0-45bb-8189-9ae1bb5dc249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/following::a[2]</value>
+      <webElementGuid>937459c4-21eb-412f-8402-090a171e1bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/preceding::a[1]</value>
+      <webElementGuid>44a045b3-d019-42b4-ae2a-cdf48c2a9844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Log'])[1]/preceding::a[2]</value>
+      <webElementGuid>6a8ad70f-b7af-41bf-b51a-391620b3ac94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rules']/parent::*</value>
+      <webElementGuid>48d70181-3d11-445e-84e3-8203461ef81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/warehouse-manager/rules')]</value>
+      <webElementGuid>2cbe8c8c-9c37-4cb4-a481-8982de5e7f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//accordion-group[4]/div/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>f6154d4c-36d2-4fa5-a9eb-740a6db642ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/warehouse-manager/rules' and (text() = ' Rules ' or . = ' Rules ')]</value>
+      <webElementGuid>8d4f5d28-52d6-47f2-a436-c0f9ebf9f716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Overview Dimensions by ModuleModule_34e5fc</name>
+   <tag></tag>
+   <elementGuidId>e18bb953-deb3-41fd-9fb6-580d20f5d102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/overview/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>3e9017d6-0cf8-4c68-83a1-6fc62a4b61b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>8834cd7b-2e16-40ae-904f-398f050b7157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview Dimensions by ModuleModules Dimensions Accounts PayableAccountCategoryCurrencyDepartmentEntityPeriodScenarioVendorLast updated-- Size&lt;1 MBAccounts ReceivableAccountCategoryCurrencyCustomerDepartmentEntityPeriodScenarioLast updated-- Size&lt;1 MBBenchmarkingBenchmark OrgsEntityPeriodScenarioLast updated-- Size&lt;1 MBCapitalAccountAssetCategoryCurrencyDepartmentEntityPeriodScenarioSource SystemLast updated-- Size&lt;1 MBDecision AdvisorCategoryCurrencyEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBGeneral LedgerAccountCategoryCorresponding EntityCurrencyDepartmentEntityInterco ParentLine DetailsMinority ParentPeriodScenarioSource SystemtestdimensionintacctLast updated5 years ago Size131.1 MBGeneral Ledger DetailAccountCategoryCorresponding EntityCurrencyDepartmentEntityLine DetailsPeriodScenarioSource SystemtestdimensionintacctLast updated-- Size1.3 MBGoogle AnalyticsCategoryEntityPeriodScenarioLast updated-- Size1.9 MBNarrative ReportingCategoryEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBPayrollAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemLast updated-- Size1.3 MBProjectsAccountCategoryCurrencyEntityPeriodProjectScenarioSource SystemLast updated-- Size&lt;1 MBRevenuesAccountCategoryCurrencyCustomerDepartmentEmployeeEntityPeriodProductScenarioSource SystemLast updated-- Size4.1 MBSample ImportAccountCategoryDepartmentEntityPeriodScenarioLast updated8 months ago Size&lt;1 MBStrategyAccountCategoryCurrencyEmployeeEntityPeriodProductScenarioSource SystemStrategyLast updated-- Size&lt;1 MBTravelAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemTravel TypeTravel VendorLast updated-- Size3.6 MB</value>
+      <webElementGuid>1cb519d9-35b3-4a03-b39a-b642afbd0fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/overview[1]/section[@class=&quot;section&quot;]</value>
+      <webElementGuid>aaaa64e2-f99b-460e-beb2-7f284e6d2139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/overview/section</value>
+      <webElementGuid>38e96b75-356c-4b7b-b6f3-7b769e7a78b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::section[1]</value>
+      <webElementGuid>2e07aa06-c956-40c8-a7ba-92630147655e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Period Configuration'])[1]/following::section[1]</value>
+      <webElementGuid>51a8b09e-2600-4c1a-9fdc-4665d273fd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+      <webElementGuid>832b3c09-e752-4d54-8ad8-6dcabff3b35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = ' Overview Dimensions by ModuleModules Dimensions Accounts PayableAccountCategoryCurrencyDepartmentEntityPeriodScenarioVendorLast updated-- Size&lt;1 MBAccounts ReceivableAccountCategoryCurrencyCustomerDepartmentEntityPeriodScenarioLast updated-- Size&lt;1 MBBenchmarkingBenchmark OrgsEntityPeriodScenarioLast updated-- Size&lt;1 MBCapitalAccountAssetCategoryCurrencyDepartmentEntityPeriodScenarioSource SystemLast updated-- Size&lt;1 MBDecision AdvisorCategoryCurrencyEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBGeneral LedgerAccountCategoryCorresponding EntityCurrencyDepartmentEntityInterco ParentLine DetailsMinority ParentPeriodScenarioSource SystemtestdimensionintacctLast updated5 years ago Size131.1 MBGeneral Ledger DetailAccountCategoryCorresponding EntityCurrencyDepartmentEntityLine DetailsPeriodScenarioSource SystemtestdimensionintacctLast updated-- Size1.3 MBGoogle AnalyticsCategoryEntityPeriodScenarioLast updated-- Size1.9 MBNarrative ReportingCategoryEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBPayrollAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemLast updated-- Size1.3 MBProjectsAccountCategoryCurrencyEntityPeriodProjectScenarioSource SystemLast updated-- Size&lt;1 MBRevenuesAccountCategoryCurrencyCustomerDepartmentEmployeeEntityPeriodProductScenarioSource SystemLast updated-- Size4.1 MBSample ImportAccountCategoryDepartmentEntityPeriodScenarioLast updated8 months ago Size&lt;1 MBStrategyAccountCategoryCurrencyEmployeeEntityPeriodProductScenarioSource SystemStrategyLast updated-- Size&lt;1 MBTravelAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemTravel TypeTravel VendorLast updated-- Size3.6 MB' or . = ' Overview Dimensions by ModuleModules Dimensions Accounts PayableAccountCategoryCurrencyDepartmentEntityPeriodScenarioVendorLast updated-- Size&lt;1 MBAccounts ReceivableAccountCategoryCurrencyCustomerDepartmentEntityPeriodScenarioLast updated-- Size&lt;1 MBBenchmarkingBenchmark OrgsEntityPeriodScenarioLast updated-- Size&lt;1 MBCapitalAccountAssetCategoryCurrencyDepartmentEntityPeriodScenarioSource SystemLast updated-- Size&lt;1 MBDecision AdvisorCategoryCurrencyEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBGeneral LedgerAccountCategoryCorresponding EntityCurrencyDepartmentEntityInterco ParentLine DetailsMinority ParentPeriodScenarioSource SystemtestdimensionintacctLast updated5 years ago Size131.1 MBGeneral Ledger DetailAccountCategoryCorresponding EntityCurrencyDepartmentEntityLine DetailsPeriodScenarioSource SystemtestdimensionintacctLast updated-- Size1.3 MBGoogle AnalyticsCategoryEntityPeriodScenarioLast updated-- Size1.9 MBNarrative ReportingCategoryEntityLine DetailsPeriodScenarioLast updated-- Size&lt;1 MBPayrollAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemLast updated-- Size1.3 MBProjectsAccountCategoryCurrencyEntityPeriodProjectScenarioSource SystemLast updated-- Size&lt;1 MBRevenuesAccountCategoryCurrencyCustomerDepartmentEmployeeEntityPeriodProductScenarioSource SystemLast updated-- Size4.1 MBSample ImportAccountCategoryDepartmentEntityPeriodScenarioLast updated8 months ago Size&lt;1 MBStrategyAccountCategoryCurrencyEmployeeEntityPeriodProductScenarioSource SystemStrategyLast updated-- Size&lt;1 MBTravelAccountCategoryCurrencyDepartmentEmployeeEntityPeriodScenarioSource SystemTravel TypeTravel VendorLast updated-- Size3.6 MB')]</value>
+      <webElementGuid>0853e2e3-fddc-4723-a541-4b44fd3b6286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

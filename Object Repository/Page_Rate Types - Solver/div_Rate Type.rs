@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rate Type</name>
+   <tag></tag>
+   <elementGuidId>dff25715-3781-403e-ab3e-314824154558</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='solver-data-warehouse-app']/div/rate-types/div/section/div/div/wj-flex-grid/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wj-cell.wj-header.wj-filter-off</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b63c9d3f-436b-4503-a9b2-57f6024d7307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wj-cell wj-header wj-filter-off</value>
+      <webElementGuid>e9bab1d6-4e17-4487-ad09-4a39a0b1f0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>6871fabd-e3c9-4c55-82de-b2bf7dd6e858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b7723d06-bb02-436d-b7bc-baa0d42c572e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rate Type</value>
+      <webElementGuid>0c02e5d0-c513-46c7-b8ec-3742c55b9819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solver-data-warehouse-app&quot;)/div[@class=&quot;page-content-wrapper&quot;]/rate-types[1]/div[@class=&quot;rateType&quot;]/section[@class=&quot;rateType-content&quot;]/div[1]/div[1]/wj-flex-grid[@class=&quot;wj-control wj-content wj-flexgrid wj-state-focus wj-state-focused&quot;]/div[1]/div[5]/div[@class=&quot;wj-colheaders&quot;]/div[@class=&quot;wj-row&quot;]/div[@class=&quot;wj-cell wj-header wj-filter-off&quot;]</value>
+      <webElementGuid>f59da89f-eba9-4de8-90e3-14f8d4954f65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='solver-data-warehouse-app']/div/rate-types/div/section/div/div/wj-flex-grid/div/div[5]/div/div/div</value>
+      <webElementGuid>0661a275-7a63-439a-afa3-deda8b194e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interco Balance Sheet Activity'])[1]/following::div[12]</value>
+      <webElementGuid>e061d12d-e746-4b6e-b35b-557a30e6bc9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ICACT'])[1]/following::div[13]</value>
+      <webElementGuid>93f234f1-44bd-4587-9c39-f056fca624fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/preceding::div[1]</value>
+      <webElementGuid>01e2bbe7-5fff-4dc0-ad99-1a9e25e14b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Entities'])[2]/preceding::div[2]</value>
+      <webElementGuid>256f58af-a946-45f9-b48d-dc8f8fd9b4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>fdad232b-a18b-4f54-9b15-1ea59b3e01cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rate Type' or . = 'Rate Type')]</value>
+      <webElementGuid>bbee13a7-3301-475e-880f-d417315d3d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
