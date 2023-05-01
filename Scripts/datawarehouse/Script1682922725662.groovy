@@ -54,6 +54,8 @@ WebUI.click(findTestObject('Object Repository/Page_Home - Solver/div_Data Wareho
 
 WebUI.waitForPageLoad(5)
 
+WebUI.click(findTestObject('Page_Solver/navbartoggle'))
+
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Overview - Solver/span_Accounts Payable'), 5)
 
 'Goes to Dimension overview'
@@ -75,7 +77,11 @@ WebUI.waitForPageLoad(10)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Rate Types - Solver/div_Rate Type'), 10)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('RateType')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 'Goes to Monthly Rates'
 WebUI.click(findTestObject('Object Repository/Page_Rate Types - Solver/a_Monthly Rates'))
@@ -83,6 +89,8 @@ WebUI.click(findTestObject('Object Repository/Page_Rate Types - Solver/a_Monthly
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForElementVisible(findTestObject('Page_Monthly Rates - Solver/SelectRateType'), 0)
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('MonthlyRateEmpty')
 
@@ -94,11 +102,17 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Monthly Rates
 
 WebUI.takeFullPageScreenshotAsCheckpoint('MonthlyRateAVG')
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.click(findTestObject('Object Repository/Page_Monthly Rates - Solver/a_Rate Configuration'))
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('RateConfiguration')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 'Goes to Data'
 WebUI.click(findTestObject('Object Repository/Page_Rate Configuration - Solver/a_Data'))
@@ -108,14 +122,22 @@ WebUI.click(findTestObject('Object Repository/Page_Rate Configuration - Solver/a
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('Integrations')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 'Data > Rules'
 WebUI.click(findTestObject('Object Repository/Page_Integrations - Solver/a_Rules'))
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('Rules')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 'Goes to Jobs'
 WebUI.click(findTestObject('Object Repository/Page_Rules - Solver/a_Jobs'))
@@ -124,7 +146,11 @@ WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForElementVisible(findTestObject('Page_Jobs - Solver/div_Name'), 5)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('Jobs')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 WebUI.click(findTestObject('Object Repository/Page_Jobs - Solver/a_Event Log'))
 
@@ -132,13 +158,19 @@ WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForElementVisible(findTestObject('Page_Event Log - Solver/div_Name'), 5)
 
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
 WebUI.takeFullPageScreenshotAsCheckpoint('EventLog')
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 WebUI.click(findTestObject('Object Repository/Page_Event Log - Solver/a_Configuration'))
 
 WebUI.click(findTestObject('Object Repository/Page_Event Log - Solver/a_Period Configuration'))
 
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('PeriodConfig')
 
