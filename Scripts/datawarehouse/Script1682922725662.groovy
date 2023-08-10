@@ -135,6 +135,8 @@ WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
+WebUI.waitForElementNotVisible(findTestObject('Page_Solver/dw_loader'), 20)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('Rules')
 
 WebUI.click(findTestObject('Page_Solver/menutoggledw'))
@@ -148,6 +150,8 @@ WebUI.waitForElementVisible(findTestObject('Page_Jobs - Solver/div_Name'), 5)
 
 WebUI.click(findTestObject('Page_Solver/menutoggledw'))
 
+WebUI.waitForElementNotVisible(findTestObject('Page_Solver/dw_loader'), 20)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('Jobs')
 
 WebUI.click(findTestObject('Page_Solver/menutoggledw'))
@@ -159,6 +163,8 @@ WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 WebUI.waitForElementVisible(findTestObject('Page_Event Log - Solver/div_Name'), 5)
 
 WebUI.click(findTestObject('Page_Solver/menutoggledw'))
+
+WebUI.waitForElementNotVisible(findTestObject('Page_Solver/dw_loader'), 20)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('EventLog')
 
