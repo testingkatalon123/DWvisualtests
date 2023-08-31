@@ -6,12 +6,12 @@
    <elementGuidId>e16d19be-0484-4b53-87a8-76d60e975f56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='anchor_ae706bbe-f978-4405-a434-c5ac8f374df9']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#anchor_ae706bbe-f978-4405-a434-c5ac8f374df9 > div.navbar__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Data Warehouse']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>af9f4fd3-1091-4b78-b24d-cfdf7e762d14</webElementGuid>
+      <webElementGuid>92227abb-b31a-4946-9dde-cf2f5e381773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>navbar__title</value>
-      <webElementGuid>274e70ca-28b7-4ea0-8cdc-890a206a360e</webElementGuid>
+      <webElementGuid>ebe90ec3-9329-44a7-8163-98d043ba227a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Data Warehouse</value>
-      <webElementGuid>75d7ed13-4af4-4991-ba2b-3777560c8be4</webElementGuid>
+      <webElementGuid>4f02e700-c57b-4fae-bbaa-b7fe6a1bcdce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;anchor_ae706bbe-f978-4405-a434-c5ac8f374df9&quot;)/div[@class=&quot;navbar__title&quot;]</value>
-      <webElementGuid>413da51c-e63a-4e05-a692-707d789fd312</webElementGuid>
+      <webElementGuid>f13c17cb-e617-480b-a6e5-6385fb9c9fa0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='anchor_ae706bbe-f978-4405-a434-c5ac8f374df9']/div</value>
-      <webElementGuid>6b2032aa-6218-4661-bc46-f5bb1c5cd6a7</webElementGuid>
+      <webElementGuid>d599a3bf-3f9d-4afd-a2e7-3bbd675a28ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Warehouse'])[1]/following::div[1]</value>
-      <webElementGuid>a50c0119-6424-4500-9c03-823e115037f3</webElementGuid>
+      <webElementGuid>8dc2d06c-6cc6-44c3-b1ed-29e9e6b90b62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[2]/following::div[1]</value>
-      <webElementGuid>7778b9c8-40e9-49b9-8c59-9b0bebead1bc</webElementGuid>
+      <webElementGuid>04cac6f1-6b86-44a0-9c09-3026092ad883</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[1]</value>
-      <webElementGuid>3a64f789-546d-400e-8575-6517e658ec07</webElementGuid>
+      <webElementGuid>4372c89b-26df-4eb6-91ec-c0f1241b3600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/preceding::div[1]</value>
-      <webElementGuid>8005775e-aefa-460d-84cc-cfdc028c9f8c</webElementGuid>
+      <webElementGuid>0da249ba-978f-40a2-af32-ddc705f10aee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/ul/li[2]/a/div</value>
-      <webElementGuid>d1314a67-a393-4489-83ad-07126fb269ba</webElementGuid>
+      <webElementGuid>c9fa53e5-4aa6-4d62-9d3f-6f9f53c66a25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Data Warehouse' or . = 'Data Warehouse')]</value>
-      <webElementGuid>2154b9bd-b46f-4a63-aa71-f2bcc3f88a20</webElementGuid>
+      <webElementGuid>538aeb58-70a8-4bfa-b4ef-bdba912b1654</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>6f4876d9-a350-4ad7-8457-ece13c4cd709</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='fullscreen-root-container']/div/div/div[2]/osr-login/osr-email-input/form/osr-submit-button/button/ng-transclude</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.osr-button.osr-button--primary > ng-transclude</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Sign in']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ng-transclude</value>
-      <webElementGuid>11c7ef06-2fd7-4fcf-986f-99e66233b1cc</webElementGuid>
+      <webElementGuid>053b3e03-87bb-4db8-bc92-4886e845c149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>5f745ea8-2900-49db-b51a-e3916c3e2296</webElementGuid>
+      <webElementGuid>a9033e47-16e5-4f09-bbb5-8005e5c04b4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__single_spa_angular_1&quot;)/ui-view[@class=&quot;ultimate ng-scope&quot;]/div[@id=&quot;fullscreen-root-container&quot;]/div[@class=&quot;login osrFlexItem&quot;]/div[@class=&quot;osrFlex&quot;]/div[@class=&quot;widget widget_container-login-form osrFlexItem osrFlexItem__grow ng-scope&quot;]/osr-login[@class=&quot;ng-scope ng-isolate-scope&quot;]/osr-email-input[@class=&quot;ng-scope ng-isolate-scope&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/osr-submit-button[@class=&quot;ng-isolate-scope&quot;]/button[@class=&quot;osr-button osr-button--primary&quot;]/ng-transclude[1]</value>
-      <webElementGuid>0f0f4350-6bff-4da5-86d2-de02db74a596</webElementGuid>
+      <webElementGuid>3ca0bb4e-aa52-4769-b004-66b71ef5b1b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='fullscreen-root-container']/div/div/div[2]/osr-login/osr-email-input/form/osr-submit-button/button/ng-transclude</value>
-      <webElementGuid>9104800f-1f42-4030-b6f6-3ed0368f8022</webElementGuid>
+      <webElementGuid>0aec47b0-abee-4252-b1bc-d92b7d03bb75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::ng-transclude[2]</value>
-      <webElementGuid>dd39cad3-7231-43da-817f-6b7c9c1ae6b7</webElementGuid>
+      <webElementGuid>1f06dc71-4b93-4ff5-8d0a-b6c26ae64282</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::ng-transclude[2]</value>
-      <webElementGuid>41208813-8e5d-47eb-bc64-44c669a64abb</webElementGuid>
+      <webElementGuid>28f695f4-21fb-4970-acb0-42dd3c8397c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>9e96fb2f-9239-425f-9091-ba07f5258d2f</webElementGuid>
+      <webElementGuid>6968b280-9338-41e0-84fb-352af47b3c63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/ng-transclude</value>
-      <webElementGuid>fa6db502-9f67-4cfb-8e59-dbf0c7c670d7</webElementGuid>
+      <webElementGuid>27129a1d-4a91-4888-b230-cf60fceca0eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//ng-transclude[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>32824a52-c7fd-4c71-8ac7-9db281a5d779</webElementGuid>
+      <webElementGuid>f4aa3bb3-0e01-4b20-8bb4-d2b76dae62ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

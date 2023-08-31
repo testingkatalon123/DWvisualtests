@@ -29,8 +29,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Solver/input_Passw
 
 WebUI.click(findTestObject('Page_Solver/ng-transclude_Next'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Home - Solver/div_Mindy_Corporate_Demo_osr-user-menu__but_ac061f'), 
-    10)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Home - Solver/div_Mindy_Corporate_Demo_osr-user-menu__but_ac061f'), 
+    100, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Home - Solver/div_Mindy_Corporate_Demo_osr-user-menu__but_ac061f'))
 
@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Page_Home - Solver/p_Mindy_Corpora
 'makes sure tenant is Mindy_Corp_Demo'
 WebUI.click(findTestObject('Object Repository/Page_Home - Solver/svg_Mindy_Corporate_Demo_icon icon--light'))
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(100)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Home - Solver/h1_Welcome, Mindy Kim'), 0)
 
